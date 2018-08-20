@@ -1,0 +1,10 @@
+{
+  "optionSet" : {
+    "WorkspaceRootPath" : {
+      "p" : "/Users/zhuge/Desktop/BazelDemo"
+    },
+    "BazelPath" : {
+      "p" : "/usr/local/bin/bazel"
+    }
+  }
+}
